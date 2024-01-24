@@ -1,0 +1,2 @@
+# killed_by_player
+predicateのkilled_by_playerに関するデータパックサンプルになります。
